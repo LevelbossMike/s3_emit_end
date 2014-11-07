@@ -1,0 +1,2 @@
+Uploading two files works as expected.
+Uploading only one makes the EventEmitter emit `end` before the file has finished uploading.
